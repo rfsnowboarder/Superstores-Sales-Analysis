@@ -45,7 +45,7 @@ This project analyzes retail sales data to evaluate revenue performance, custome
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Sales.pdf)
 
 ---
 
