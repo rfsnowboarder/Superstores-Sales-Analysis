@@ -14,9 +14,9 @@ This project analyzes retail sales data to evaluate revenue performance, custome
 
 ## Business Questions
 - Which regions generate the most revenue?
-- Which product categories perform best?
-- How concentrated is revenue among top customers?
-- What is the average order value?
+- Which product categories perform the best?
+- How is revenue spread out among the top 10 customers?
+- What is the average order value for each order?
 
 ---
 
@@ -28,17 +28,17 @@ This project analyzes retail sales data to evaluate revenue performance, custome
 ---
 
 ## Key Insights
-- The West region generates the highest revenue.
+- The West and East regions generate the most revenue.
 - Technology is the strongest performing category.
-- Revenue is concentrated among a relatively small group of customers, especially the top 2.
+- Revenue is concentrated highest among the top 2 customers.
 - The average order value suggests opportunity for upselling.
 
 ---
 
 ## Business Recommendations
-- Increase marketing efforts in high-performing regions.
+- Increase marketing efforts in the high-performing regions (East and West).
 - Expand inventory in technology, the top-performing category.
-- Develop customer loyalty programs targeting high-value buyers.
+- Develop customer loyalty programs targeting the top 2 customers and incetivising the others.
 - Implement cross-selling strategies to increase order value.
 
 ---
