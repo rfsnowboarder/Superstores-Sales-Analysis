@@ -1,7 +1,22 @@
 # Superstore Sales Analysis
 
 ## Project Overview
-This project analyzes retail sales data to evaluate revenue performance, customer concentration, and product category trends using SQL and Power BI.
+The goal of this project is to analyze retail sales performance using SQL and visualize key business metrics in Power BI. 
+
+This analysis focuses on identifying revenue distribution, top-performing regions and categories, customer concentration, and average order value.
+
+---
+
+## Data Source
+The dataset used in this project is the publicly available Superstore dataset from Kaggle.com
+
+The dataset includes:
+- Order ID
+- Order Date
+- Region
+- Category
+- Customer Name
+- Sales
 
 ---
 
